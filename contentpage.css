@@ -1,0 +1,140 @@
+* {
+    box-sizing: border-box;
+}
+
+h1 {
+    color:#E4F132;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+h2 {
+    color:#340933;
+}
+
+body {
+    background-color: #9A0794;
+}
+
+.portal {
+    margin: auto;
+    text-align: center;
+    
+}
+
+a.link {
+    color: #340933;
+    text-decoration: none;
+}
+
+a:visited {
+    color:#340933
+}
+
+a:hover {
+    color:#E4F132
+}
+
+
+.container {
+    color: #E4F132;
+    margin:auto;
+    
+}
+
+.content {
+    margin: auto;
+}
+
+.content2 img {
+    width: 80%;
+}
+
+.container2 {
+    color: #E4F132;
+}
+
+@media only screen and (min-width: 600px) {
+
+
+    .container {
+        display: flex;
+        flex-wrap: wrap;
+        margin: auto;
+        color: #E4F132;
+    }
+
+    .content {
+        margin: auto;
+        align-content: center;
+        
+    }
+
+    .content2 img {
+        width: 60%;
+        display: block;
+        align-content: center;
+        margin: auto;
+        
+    }
+
+    .container2 {
+        text-align: center;
+    }
+    
+
+
+}
+
+
+@media only screen and (min-width: 800px) {
+
+.container {
+    display: flex;
+    flex-wrap: nowrap;
+    margin: auto;
+    color: #E4F132;
+}
+
+.content {
+    margin: auto;
+    align-content: center;
+
+}
+
+.container2 {
+    display: grid;
+    grid-template-columns: auto auto;
+    text-align: center;
+    color: #E4F132;
+}
+
+.content2 img {
+    width: 80%;
+    display: block;
+    align-content: center;
+    margin: auto;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
