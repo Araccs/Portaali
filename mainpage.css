@@ -17,6 +17,8 @@ h2 {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
+/* Muotoilu asetukset puhelimille */
+
 .container {
     display: flex;
     flex-wrap: wrap;
@@ -47,7 +49,7 @@ a:hover {
     color:#E4F132
 }
     
-
+/* Muotoilu asetukset tableteille/pienille ruuduille */
 
 @media only screen and (min-width: 600px) {
 
@@ -72,7 +74,7 @@ a:hover {
     }
 }
 
-
+/* Muotoilu asetukset isolle ruudulle */
 
 @media only screen and (min-width: 800px) {
 

@@ -35,6 +35,7 @@ a:hover {
     color:#E4F132
 }
 
+/* Muotoilu asetukset puhelimille */
 
 .container {
     color: #E4F132;
@@ -53,6 +54,8 @@ a:hover {
 .container2 {
     color: #E4F132;
 }
+
+/* Muotoilu asetukset tableteille/pienille ruuduille */
 
 @media only screen and (min-width: 600px) {
 
@@ -86,6 +89,7 @@ a:hover {
 
 }
 
+/* Muotoilu asetukset isolle ruudulle */
 
 @media only screen and (min-width: 800px) {
 
