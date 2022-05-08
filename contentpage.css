@@ -3,7 +3,7 @@
 }
 
 h1 {
-    color:#E4F132;
+    color:#FE2713;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-align: center;
 }
@@ -13,7 +13,7 @@ h2 {
 }
 
 body {
-    background-color: #9A0794;
+    background-color: #357D99;
 }
 
 .portal {
@@ -23,22 +23,22 @@ body {
 }
 
 a.link {
-    color: #340933;
+    color: #352309;
     text-decoration: none;
 }
 
 a:visited {
-    color:#340933
+    color:#352309
 }
 
 a:hover {
-    color:#E4F132
+    color:#FE2713
 }
 
 /* Muotoilu asetukset puhelimille */
 
 .container {
-    color: #E4F132;
+    color: #FE2713;
     margin:auto;
     
 }
@@ -52,7 +52,7 @@ a:hover {
 }
 
 .container2 {
-    color: #E4F132;
+    color: #FE2713;
 }
 
 /* Muotoilu asetukset tableteille/pienille ruuduille */
@@ -64,7 +64,7 @@ a:hover {
         display: flex;
         flex-wrap: wrap;
         margin: auto;
-        color: #E4F132;
+        color: #FE2713;
     }
 
     .content {
@@ -97,7 +97,7 @@ a:hover {
     display: flex;
     flex-wrap: nowrap;
     margin: auto;
-    color: #E4F132;
+    color: #FE2713;
 }
 
 .content {
@@ -110,7 +110,7 @@ a:hover {
     display: grid;
     grid-template-columns: auto auto;
     text-align: center;
-    color: #E4F132;
+    color: #FE2713;
 }
 
 .content2 img {

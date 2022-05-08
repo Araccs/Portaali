@@ -3,17 +3,17 @@
 }
 
 body {
-    background-color: #9A0794;
+    background-color: #357D99;
 }
 
 h1 {
-    color:#E4F132;
+    color:#FE2713;
     text-align: center;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 h2 {
-    color:#340933;
+    color:#352309;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
@@ -37,16 +37,16 @@ h2 {
 }
 
 a.link {
-    color: #340933;
+    color: #352309;
     text-decoration: none;
 }
 
 a:visited {
-    color:#340933
+    color:#352309;
 }
 
 a:hover {
-    color:#E4F132
+    color:#FE2713;
 }
     
 /* Muotoilu asetukset tableteille/pienille ruuduille */
